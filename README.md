@@ -17,6 +17,7 @@ A collection of resources and papers on ***NLP Diffusion Models***.
 
 |Link|Year|Conference|Paper|First Author and Institute|
 | :- | :- | :- | :- | :- |
+|<p>[pdf](https://aclanthology.org/2026.acl-long.311.pdf)</p><p>[github](https://github.com/NEUIR/Uncode)</p>|2026|ACL (Oral)|Empirical Analysis of Decoding Biases in Masked Diffusion Models|<p>Pengcheng Huang</p><p> </p><p>Northeastern University</p>|
 |[pdf](https://arxiv.org/pdf/2212.11685.pdf)|2022/12|arxiv|GENIE: Large Scale Pre-training for Text Generation with Diffusion Model|<p>Zhenghao Lin </p><p> </p><p>Xiamen University/Microsoft Research Asia</p>|
 |<p>[pdf](https://arxiv.org/pdf/2212.10325.pdf)</p><p> </p>| | |SeqDiffuSeq: Text Diffusion with Encoder-Decoder Transformers|<p>Hongyi Yuan</p><p> </p><p>Tsinghua University/Alibaba Group</p>|
 |<p>[pdf](https://arxiv.org/pdf/2211.15029.pdf)</p><p>[github](https://github.com/Hzfinfdu/Diffusion-BERT)</p>|2022/11|arxiv|DiffusionBERT: Improving Generative Masked Language Models with Diffusion Model|<p>Zhengfu He</p><p>Tianxiang Sun</p><p> </p><p>Fudan University</p>|
